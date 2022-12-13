@@ -1,4 +1,5 @@
-package calculator.src.main.java.com.termone.calculator.dto;
+package com.termone.calculator.dto;
+
 
 import javax.validation.constraints.NotNull;
 

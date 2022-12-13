@@ -1,4 +1,4 @@
-package calculator.src.main.java.com.termone.calculator.utils;
+package com.termone.calculator.utils;
 
 public class APIResponse {
 

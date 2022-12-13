@@ -1,4 +1,4 @@
-package com.example.classbjunit;
+package com.termone.calculator;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

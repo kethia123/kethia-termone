@@ -1,6 +1,6 @@
-package calculator.src.main.java.com.termone.calculator.service;
+package com.termone.calculator.service;
 
-import calculator.src.main.java.com.termone.calculator.exception.InvalidOperationException;
+import com.termone.calculator.exception.InvalidOperationException;
 
 public class MathOperatorImpl{
     public double doMath(double operand1, double operand2, String operation) throws InvalidOperationException {
