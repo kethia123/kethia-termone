@@ -1,8 +1,6 @@
-package com.example.classbjunit.service;
+package calculator.src.main.java.com.termone.calculator.service;
 
-import com.example.classbjunit.dto.DoMathRequest;
-import com.example.classbjunit.exception.InvalidOperationException;
-import org.springframework.http.ResponseEntity;
+import calculator.src.main.java.com.termone.calculator.exception.InvalidOperationException;
 
 public class MathOperatorImpl{
     public double doMath(double operand1, double operand2, String operation) throws InvalidOperationException {

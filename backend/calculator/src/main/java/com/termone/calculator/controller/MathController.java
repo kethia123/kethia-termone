@@ -1,7 +1,6 @@
-package com.example.classbjunit.controller;
+package calculator.src.main.java.com.termone.calculator.controller;
 
-import com.example.classbjunit.dto.DoMathRequest;
-import com.example.classbjunit.service.MathOperatorImpl;
+import calculator.src.main.java.com.termone.calculator.dto.DoMathRequest;
 import org.springframework.web.bind.annotation.PostMapping;
 
 public class MathController {
